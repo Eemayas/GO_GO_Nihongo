@@ -1,0 +1,6 @@
+# .gitignore
+# .gitignore
+
+datas/raw.txt
+Models/wiki.ja.zip
+venv
