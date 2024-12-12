@@ -1,7 +1,7 @@
 # .gitignore
-# .gitignore
 
 datas/raw.txt
 Models/wiki.ja.zip
 venv
-translation_en_to_ja.ipynb
+French
+Pretrained tokenizer
